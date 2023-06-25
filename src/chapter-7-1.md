@@ -1,5 +1,4 @@
-Chapter 7: Addressing Technostress and Burnout: Techniques for Addressing Technostress and Burnout
-==================================================================================================
+# Techniques for Addressing Technostress and Burnout
 
 **Overview**
 

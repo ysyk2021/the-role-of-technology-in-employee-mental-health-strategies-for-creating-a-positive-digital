@@ -1,5 +1,4 @@
-Chapter 3: Understanding the Role of Technology in Employee Mental Health: Techniques for Understanding the Role of Technology in Employee Mental Health
-========================================================================================================================================================
+# Techniques for Understanding the Role of Technology in Employee Mental Health
 
 Understanding the role of technology in employee mental health is essential for creating a positive digital workplace. In this chapter, we will explore techniques for understanding the role of technology in employee mental health.
 

@@ -1,5 +1,4 @@
-Chapter 9: Sustaining Technology Efforts: Adapting to Changes in the Technological Landscape
-============================================================================================
+# Adapting to Changes in the Technological Landscape
 
 **Overview**
 

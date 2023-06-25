@@ -1,5 +1,4 @@
-Chapter 9: Sustaining Technology Efforts: Continuous Learning and Improvement
-=============================================================================
+# Continuous Learning and Improvement
 
 **Overview**
 

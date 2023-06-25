@@ -1,5 +1,4 @@
-Chapter 10: Conclusion: Recap of Key Points and Strategies
-==========================================================
+# Recap of Key Points and Strategies
 
 Creating a positive digital workplace that supports employee mental health is essential for promoting well-being and productivity in today's fast-paced work environment. In this book, we have explored the role of technology in employee mental health and strategies for creating a positive digital workplace. Here is a recap of the key points and strategies discussed:
 

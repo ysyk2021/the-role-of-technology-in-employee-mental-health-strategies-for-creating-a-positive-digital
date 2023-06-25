@@ -1,5 +1,4 @@
-Chapter 6: Developing Digital Literacy and Skills: Training Employees on Privacy and Security
-=============================================================================================
+# Training Employees on Privacy and Security
 
 **Overview**
 

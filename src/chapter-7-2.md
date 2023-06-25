@@ -1,5 +1,4 @@
-Chapter 7: Addressing Technostress and Burnout: Reducing Information Overload and Distractions
-==============================================================================================
+# Reducing Information Overload and Distractions
 
 **Overview**
 

@@ -1,5 +1,4 @@
-Chapter 8: Measuring and Evaluating Technology Effectiveness: Techniques for Measuring and Evaluating Technology Effectiveness
-==============================================================================================================================
+# Techniques for Measuring and Evaluating Technology Effectiveness
 
 **Overview**
 

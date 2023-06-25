@@ -1,5 +1,4 @@
-Chapter 8: Measuring and Evaluating Technology Effectiveness: Analyzing Results and Making Improvements
-=======================================================================================================
+# Analyzing Results and Making Improvements
 
 **Overview**
 

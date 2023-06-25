@@ -1,5 +1,4 @@
-Chapter 6: Developing Digital Literacy and Skills: Encouraging Mindful Use of Technology
-========================================================================================
+# Encouraging Mindful Use of Technology
 
 **Overview**
 

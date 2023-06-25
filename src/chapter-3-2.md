@@ -1,5 +1,4 @@
-Chapter 3: Understanding the Role of Technology in Employee Mental Health: Identifying Types of Technology
-==========================================================================================================
+# Identifying Types of Technology
 
 To understand the role of technology in employee mental health, it is important to identify the types of technology that employees use in the workplace. In this chapter, we will explore the various types of technology that can impact employee mental health.
 

@@ -1,5 +1,4 @@
-Chapter 9: Sustaining Technology Efforts: Techniques for Sustaining Technology Efforts
-======================================================================================
+# Techniques for Sustaining Technology Efforts
 
 **Overview**
 

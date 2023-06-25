@@ -1,5 +1,4 @@
-Chapter 1: Introduction: Defining the Importance of Employee Mental Health
-==========================================================================
+# Defining the Importance of Employee Mental Health
 
 **Overview**
 

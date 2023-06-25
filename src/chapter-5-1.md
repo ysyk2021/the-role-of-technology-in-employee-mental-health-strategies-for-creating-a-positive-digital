@@ -1,5 +1,4 @@
-Chapter 5: Leveraging Technology to Support Employee Mental Health: Techniques for Leveraging Technology to Support Employee Mental Health
-==========================================================================================================================================
+# Techniques for Leveraging Technology to Support Employee Mental Health
 
 **Overview**
 

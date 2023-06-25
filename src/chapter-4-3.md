@@ -1,5 +1,4 @@
-Chapter 4: Creating a Positive Digital Workplace: Providing Access to Mental Health Resources
-=============================================================================================
+# Providing Access to Mental Health Resources
 
 Providing access to mental health resources is essential for creating a positive digital workplace. In this chapter, we will explore the importance of mental health resources and strategies for providing them effectively.
 

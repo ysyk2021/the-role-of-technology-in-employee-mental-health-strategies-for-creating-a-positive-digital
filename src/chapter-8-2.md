@@ -1,5 +1,4 @@
-Chapter 8: Measuring and Evaluating Technology Effectiveness: Establishing Key Performance Indicators (KPIs)
-============================================================================================================
+# Establishing Key Performance Indicators (KPIs)
 
 **Overview**
 

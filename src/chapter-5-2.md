@@ -1,5 +1,4 @@
-Chapter 5: Leveraging Technology to Support Employee Mental Health: Offering Teletherapy and Telemedicine Services
-==================================================================================================================
+# Offering Teletherapy and Telemedicine Services
 
 **Overview**
 

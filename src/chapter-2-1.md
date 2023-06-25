@@ -1,5 +1,4 @@
-Chapter 2: Overview of Employee Mental Health: Different Perspectives and Approaches to Employee Mental Health
-==============================================================================================================
+# Different Perspectives and Approaches to Employee Mental Health
 
 Promoting employee mental health is essential for creating a positive digital workplace. However, there are different perspectives and approaches to promoting employee mental health. In this chapter, we will provide an overview of employee mental health and explore different perspectives and approaches to promoting it.
 

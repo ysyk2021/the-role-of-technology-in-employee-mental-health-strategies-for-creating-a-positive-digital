@@ -1,5 +1,4 @@
-Chapter 2: Overview of Employee Mental Health: The Impact of Employee Mental Health on Organizational Performance
-=================================================================================================================
+# The Impact of Employee Mental Health on Organizational Performance
 
 Employee mental health is a critical factor in creating a positive and productive workplace. In this chapter, we will explore the impact of employee mental health on organizational performance.
 

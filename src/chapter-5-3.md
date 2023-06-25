@@ -1,5 +1,4 @@
-Chapter 5: Leveraging Technology to Support Employee Mental Health: Providing Digital Wellness Tools
-====================================================================================================
+# Providing Digital Wellness Tools
 
 **Overview**
 

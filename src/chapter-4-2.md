@@ -1,5 +1,4 @@
-Chapter 4: Creating a Positive Digital Workplace: Establishing Clear Policies and Guidelines
-============================================================================================
+# Establishing Clear Policies and Guidelines
 
 Establishing clear policies and guidelines is crucial for creating a positive digital workplace. In this chapter, we will explore the importance of clear policies and guidelines, and provide strategies for implementing them effectively.
 
