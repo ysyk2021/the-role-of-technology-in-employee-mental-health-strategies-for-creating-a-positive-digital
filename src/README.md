@@ -8,7 +8,4 @@ The book covers a range of topics, including stress management, burnout preventi
 
 Whether you're an employer, manager, or employee, this book is an essential resource for anyone looking to improve workplace mental health outcomes. By leveraging the power of technology and implementing effective strategies, you can create a supportive and positive work environment that benefits everyone. So why wait? Start reading "The Role of Technology in Employee Mental Health" today and unlock your full potential.
 
-
-
-
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
