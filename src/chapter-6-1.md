@@ -1,4 +1,4 @@
-Chapter: Techniques for Developing Digital Literacy and Skills
+Techniques for Developing Digital Literacy and Skills
 ==============================================================
 
 Introduction
