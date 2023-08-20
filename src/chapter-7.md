@@ -1,8 +1,6 @@
 Chapter 7: Addressing Technostress and Burnout
 ==============================================
 
-**Overview**
-
 The use of technology in the workplace can lead to technostress and burnout, which can have negative impacts on employee mental health. This chapter will explore techniques for addressing technostress and burnout, including reducing information overload and distractions, fostering work-life balance, and promoting digital mindfulness.
 
 Techniques for Addressing Technostress and Burnout
@@ -25,6 +23,7 @@ Promoting Digital Mindfulness
 
 Promoting digital mindfulness involves encouraging employees to be intentional and aware of their use of technology. Techniques for promoting digital mindfulness include setting boundaries around technology use, avoiding multitasking, taking breaks from technology, and practicing self-care. By promoting digital mindfulness, individuals can reduce their risk of technostress and burnout.
 
-**Conclusion**
+Conclusion
+----------
 
 Addressing technostress and burnout is critical for ensuring that technology efforts positively impact employee mental health. Techniques for addressing technostress and burnout include reducing information overload and distractions, fostering work-life balance, and promoting digital mindfulness. By prioritizing these techniques, organizations can create a positive digital workplace culture that supports employee well-being.
