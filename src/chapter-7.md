@@ -1,5 +1,3 @@
-Chapter 7: Addressing Technostress and Burnout
-==============================================
 
 The use of technology in the workplace can lead to technostress and burnout, which can have negative impacts on employee mental health. This chapter will explore techniques for addressing technostress and burnout, including reducing information overload and distractions, fostering work-life balance, and promoting digital mindfulness.
 

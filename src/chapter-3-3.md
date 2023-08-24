@@ -1,5 +1,3 @@
-Exploring the Relationship Between Technology and Employee Mental Health
-===================================================================================
 
 The relationship between technology and employee mental health is complex and multifaceted. This chapter delves into the various ways in which technology impacts employee mental health in the digital workplace, examining both positive and negative aspects of this relationship.
 

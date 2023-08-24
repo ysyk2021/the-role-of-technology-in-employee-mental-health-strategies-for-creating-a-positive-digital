@@ -1,5 +1,3 @@
-The Benefits and Challenges of Using Technology to Promote Employee Mental Health
-============================================================================================
 
 Technology plays a vital role in promoting employee mental health in the digital workplace. This chapter examines the benefits and challenges associated with utilizing technology for this purpose, highlighting the opportunities for positive impact as well as the potential drawbacks.
 

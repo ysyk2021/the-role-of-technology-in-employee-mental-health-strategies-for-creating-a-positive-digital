@@ -1,5 +1,3 @@
-Why Understanding the Role of Technology is Critical for Creating a Positive Digital Workplace
-=========================================================================================================
 
 In today's digital age, technology plays a central role in the workplace, impacting various aspects of employee well-being. This chapter emphasizes the critical importance of understanding the role of technology in creating a positive digital workplace.
 

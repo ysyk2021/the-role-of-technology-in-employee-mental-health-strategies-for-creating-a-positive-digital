@@ -1,5 +1,3 @@
-Techniques for Sustaining Technology Efforts
-=======================================================
 
 Implementing technology initiatives to support employee mental health is just the first step. To create a positive digital workplace, organizations must also focus on sustaining these efforts over time. This chapter explores various techniques that can help organizations maintain and optimize their technology efforts.
 

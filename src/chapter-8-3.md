@@ -1,5 +1,3 @@
-Analyzing Results and Making Improvements
-====================================================
 
 In order to create an effective employee mental health strategy for a positive digital workplace, it is crucial to continuously analyze the results and make improvements based on the obtained insights. This chapter explores the process of analyzing results and provides guidance on how to leverage the findings to enhance mental health initiatives.
 

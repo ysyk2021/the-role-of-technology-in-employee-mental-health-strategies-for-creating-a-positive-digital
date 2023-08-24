@@ -1,5 +1,3 @@
-Techniques for Leveraging Technology to Support Employee Mental Health
-==================================================================================
 
 Technology can play a significant role in promoting employee mental health and well-being in the digital workplace. This chapter explores various techniques and strategies for leveraging technology effectively to support and enhance employee mental health.
 

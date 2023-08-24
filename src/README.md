@@ -1,4 +1,3 @@
-# Introduction
 
 Technology has transformed the way we work, making it easier and more convenient to connect with colleagues and complete tasks. However, this convenience comes at a cost, as the use of technology in the workplace can have negative impacts on employee mental health. This is where "The Role of Technology in Employee Mental Health: Strategies for Creating a Positive Digital Workplace" comes in.
 

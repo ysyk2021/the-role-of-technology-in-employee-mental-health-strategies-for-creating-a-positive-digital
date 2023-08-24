@@ -1,5 +1,3 @@
-Establishing Key Performance Indicators (KPIs)
-=========================================================
 
 To effectively measure the impact of employee mental health strategies in creating a positive digital workplace, organizations must establish Key Performance Indicators (KPIs). This chapter explores the importance of KPIs and provides guidance on how to define and track them to ensure the success of mental health initiatives.
 

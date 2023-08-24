@@ -1,4 +1,3 @@
-# Different Perspectives and Approaches to Employee Mental Health
 
 In this chapter, we will explore different perspectives and approaches to employee mental health. We will examine various frameworks and strategies that organizations can adopt to promote and support the mental well-being of their employees.
 

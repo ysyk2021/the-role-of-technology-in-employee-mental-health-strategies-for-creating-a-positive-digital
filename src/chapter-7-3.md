@@ -1,5 +1,3 @@
-Fostering Work-Life Balance
-=======================================
 
 Achieving work-life balance is essential for employee mental health and overall well-being in the digital workplace. This chapter explores strategies and best practices for fostering work-life balance, allowing employees to thrive in both their professional and personal lives.
 

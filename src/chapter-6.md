@@ -1,5 +1,3 @@
-Chapter 6: Developing Digital Literacy and Skills
-=================================================
 
 The effective use of technology in supporting employee mental health requires employees to have digital literacy and skills. This chapter will explore techniques for developing digital literacy and skills, training employees on privacy and security, and encouraging mindful use of technology.
 
@@ -35,5 +33,4 @@ Conclusion
 ----------
 
 Developing digital literacy and skills is critical for the effective use of technology in supporting employee mental health. Employers should provide access to training and resources, encourage peer-to-peer learning, offer ongoing support, and promote mindfulness in the use of technology. Training employees on privacy and security is also essential to ensure that the use of digital tools does not compromise employees' personal information or data. By prioritizing digital literacy and skills development, employers can create a positive digital workplace culture that supports employee well-being.
-
 

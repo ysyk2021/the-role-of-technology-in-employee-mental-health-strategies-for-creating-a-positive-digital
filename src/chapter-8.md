@@ -1,5 +1,3 @@
-Chapter 8: Measuring and Evaluating Technology Effectiveness
-============================================================
 
 In order to create a positive digital workplace, it is important to measure and evaluate the effectiveness of technology. In this chapter, we will explore techniques for measuring and evaluating technology effectiveness, establishing key performance indicators (KPIs), and analyzing results to make improvements.
 

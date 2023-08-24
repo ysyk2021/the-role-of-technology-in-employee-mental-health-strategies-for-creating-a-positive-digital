@@ -1,5 +1,3 @@
-Chapter 2: Overview of Employee Mental Health
-=============================================
 
 Employee mental health is a critical factor in creating a positive and productive workplace. In this chapter, we will provide an overview of employee mental health, different perspectives and approaches to promoting it, the impact of employee mental health on organizational performance, and techniques for overcoming common challenges in promoting employee mental health.
 
@@ -26,5 +24,4 @@ Conclusion
 ----------
 
 Employee mental health is a critical component of a positive and productive workplace. Understanding different perspectives and approaches to promoting employee mental health, as well as the impact of employee mental health on organizational performance, is important. Overcoming common challenges in promoting employee mental health requires intentional effort and a commitment to supporting employee well-being. By prioritizing employee mental health and implementing techniques for overcoming challenges, organizations can create a supportive and inclusive environment that promotes employee well-being and productivity.
-
 

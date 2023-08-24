@@ -1,5 +1,3 @@
-Providing Digital Wellness Tools
-===========================================
 
 In the digital workplace, technology can play a crucial role in promoting and supporting employee mental health. This chapter explores the importance of providing digital wellness tools and highlights various technologies that can be utilized to create a positive digital workplace environment.
 

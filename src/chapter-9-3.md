@@ -1,5 +1,3 @@
-Adapting to Changes in the Technological Landscape
-=============================================================
 
 Adapting to changes in the technological landscape is crucial for organizations aiming to create a positive digital workplace that supports employee mental health. This chapter explores key considerations and strategies for effectively navigating the evolving technological landscape.
 

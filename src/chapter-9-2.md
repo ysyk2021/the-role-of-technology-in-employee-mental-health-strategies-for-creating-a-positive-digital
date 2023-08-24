@@ -1,5 +1,3 @@
-Continuous Learning and Improvement
-==============================================
 
 Continuous learning and improvement are essential for organizations aiming to create a positive digital workplace that supports employee mental health. This chapter explores the importance of continuous learning and improvement in leveraging technology for mental health strategies.
 

@@ -1,5 +1,3 @@
-Techniques for Overcoming Common Challenges in Promoting Employee Mental Health
-===========================================================================================
 
 Promoting employee mental health in the digital workplace comes with its own set of challenges. This chapter explores common obstacles that organizations may face and provides techniques for overcoming them, ensuring the successful implementation of strategies to support employee well-being.
 

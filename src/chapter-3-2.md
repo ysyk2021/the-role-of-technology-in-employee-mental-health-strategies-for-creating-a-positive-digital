@@ -1,5 +1,3 @@
-Identifying Types of Technology
-==========================================
 
 Technology plays a crucial role in shaping the digital workplace and influencing employee mental health. This chapter explores various types of technology commonly used in the workplace, highlighting their unique features, benefits, and potential impact on employee well-being.
 

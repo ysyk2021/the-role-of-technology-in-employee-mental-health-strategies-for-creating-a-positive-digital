@@ -1,5 +1,3 @@
-Reducing Information Overload and Distractions
-==========================================================
 
 In the digital workplace, information overload and constant distractions can negatively impact employee mental health and productivity. This chapter explores strategies for reducing information overload and minimizing distractions to create a positive digital workplace environment.
 

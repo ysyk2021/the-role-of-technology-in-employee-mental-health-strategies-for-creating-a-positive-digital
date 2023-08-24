@@ -1,4 +1,3 @@
-# Defining the Importance of Employee Mental Health
 
 In this chapter, we will delve into the significance of employee mental health within the context of the book "The Role of Technology in Employee Mental Health: Strategies for Creating a Positive Digital Workplace." We will explore why prioritizing mental health is crucial for both employees and organizations, highlighting the benefits of fostering a mentally healthy work environment.
 

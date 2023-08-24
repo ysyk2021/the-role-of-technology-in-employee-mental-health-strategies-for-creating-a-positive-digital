@@ -1,5 +1,3 @@
-Techniques for Understanding the Role of Technology in Employee Mental Health
-========================================================================================
 
 Understanding the impact of technology on employee mental health is crucial for creating an effective strategy to promote well-being in the digital workplace. This chapter explores various techniques that organizations can utilize to gain insights into the role of technology in employee mental health.
 

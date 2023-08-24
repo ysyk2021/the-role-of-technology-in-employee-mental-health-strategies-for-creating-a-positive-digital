@@ -1,5 +1,3 @@
-Chapter 3: Understanding the Role of Technology in Employee Mental Health
-=========================================================================
 
 Technology has become an integral part of the modern workplace, but its impact on employee mental health is not yet fully understood. In this chapter, we will explore techniques for understanding the role of technology in employee mental health, identify types of technology that can impact employee mental health, and explore the relationship between technology and employee mental health.
 

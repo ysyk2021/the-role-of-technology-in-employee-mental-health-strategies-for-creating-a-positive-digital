@@ -1,4 +1,3 @@
-# Final Recommendations for Creating a Positive Digital Workplace through Technology
 
 In this book, we have explored the role of technology in employee mental health and strategies for creating a positive digital workplace. In this final chapter, we will provide some additional recommendations for creating a positive digital workplace through technology.
 

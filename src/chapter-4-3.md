@@ -1,4 +1,3 @@
-# Providing Access to Mental Health Resources
 
 In this chapter, we will explore the importance of providing access to mental health resources. We will discuss how organizations can support their employees' mental well-being by offering various resources and leveraging technology effectively.
 

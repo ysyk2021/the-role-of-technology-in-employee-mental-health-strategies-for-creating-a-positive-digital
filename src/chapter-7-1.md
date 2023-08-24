@@ -1,5 +1,3 @@
-Techniques for Addressing Technostress and Burnout
-==============================================================
 
 In the digital workplace, the pervasive use of technology can contribute to technostress and burnout among employees. This chapter explores various techniques that can be employed to effectively address and mitigate the negative effects of technostress and burnout, fostering a positive digital workplace environment.
 

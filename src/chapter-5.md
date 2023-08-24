@@ -1,5 +1,3 @@
-Chapter 5: Leveraging Technology to Support Employee Mental Health
-==================================================================
 
 Technology can be a powerful tool for supporting employee mental health in the digital workplace. In this chapter, we will explore techniques for leveraging technology to support employee mental health.
 

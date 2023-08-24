@@ -1,5 +1,3 @@
-The Impact of Employee Mental Health on Organizational Performance
-=============================================================================
 
 Employee mental health plays a crucial role in the overall performance and success of an organization. In this chapter, we will explore the significant impact of employee mental health on various aspects of organizational performance and highlight the importance of prioritizing mental health in the digital workplace.
 

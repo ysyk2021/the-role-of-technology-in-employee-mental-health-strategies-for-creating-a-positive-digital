@@ -1,5 +1,3 @@
-Chapter 9: Sustaining Technology Efforts
-========================================
 
 Sustaining technology efforts requires ongoing attention and effort. This chapter will explore techniques for sustaining technology efforts, including continuous learning and improvement, adapting to changes in the technological landscape, and implementing techniques for successful integration of digital tools.
 

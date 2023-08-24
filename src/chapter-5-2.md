@@ -1,5 +1,3 @@
-Offering Teletherapy and Telemedicine Services
-==========================================================
 
 In the digital workplace, the availability of teletherapy and telemedicine services has become increasingly important for supporting employee mental health and overall well-being. This chapter explores the benefits of offering these services and provides insights into implementing teletherapy and telemedicine programs in creating a positive digital workplace environment.
 

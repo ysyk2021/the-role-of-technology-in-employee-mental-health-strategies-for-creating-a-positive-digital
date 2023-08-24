@@ -1,5 +1,3 @@
-Chapter 4: Creating a Positive Digital Workplace
-================================================
 
 Creating a positive digital workplace is essential for promoting employee mental health and well-being. In this chapter, we will explore techniques for creating a positive digital workplace.
 

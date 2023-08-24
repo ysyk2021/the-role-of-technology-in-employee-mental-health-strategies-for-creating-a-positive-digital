@@ -1,4 +1,3 @@
-# Promoting Digital Mindfulness
 
 This chapter focuses on promoting digital mindfulness to foster employee well-being and mental health. We will explore techniques and best practices organizations can implement to help employees develop a mindful approach towards technology and digital platforms.
 

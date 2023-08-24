@@ -1,4 +1,3 @@
-# Encouraging Mindful Use of Technology
 
 This chapter focuses on the importance of encouraging mindful use of technology to promote employee well-being and mental health. We will explore techniques and best practices organizations can implement to help employees develop a healthy relationship with technology and digital platforms.
 

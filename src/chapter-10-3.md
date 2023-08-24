@@ -1,4 +1,3 @@
-# Future Directions for Research and Practice
 
 As technology continues to play a significant role in the modern workplace, it is important to understand its impact on employee mental health. This book has explored various aspects of this topic, including the types of technology that can impact employee mental health, common challenges in promoting employee mental health, and strategies for creating a positive digital workplace. In this chapter, we will discuss future directions for research and practice in this area.
 

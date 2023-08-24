@@ -1,5 +1,3 @@
-Techniques for Measuring and Evaluating Technology Effectiveness
-===========================================================================
 
 Implementing technology in employee mental health strategies is crucial for creating a positive digital workplace. However, it is essential to measure and evaluate the effectiveness of these technologies to ensure they are achieving the desired outcomes. This chapter explores various techniques for measuring and evaluating technology effectiveness in supporting employee mental health.
 
